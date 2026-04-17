@@ -1,0 +1,19 @@
+{
+  "key_metrics": [
+    "load_factor per route",
+    "price_gap vs competitor"
+  ],
+  "segments": [
+    "business travelers",
+    "leisure"
+  ],
+  "notable_trends": [
+    "ALA-DXB high demand"
+  ],
+  "data_quality_flags": [
+    "no missing values detected"
+  ],
+  "assumptions": [
+    "demand index is synthetic"
+  ]
+}

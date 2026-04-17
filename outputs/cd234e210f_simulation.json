@@ -1,0 +1,41 @@
+{
+  "per_decision": [
+    {
+      "route": "ALA-AST",
+      "cabin_class": "economy",
+      "base_price": 278.39,
+      "new_price": 292.31,
+      "current_load_factor": 0.878,
+      "expected_load_factor": 0.815,
+      "expected_revenue_change_pct": -2.52,
+      "risk_flags": []
+    },
+    {
+      "route": "ALA-DXB",
+      "cabin_class": "business",
+      "base_price": 1020.53,
+      "new_price": 989.92,
+      "current_load_factor": 0.905,
+      "expected_load_factor": 0.927,
+      "expected_revenue_change_pct": -0.62,
+      "risk_flags": []
+    },
+    {
+      "route": "ALA-SCO",
+      "cabin_class": "first",
+      "base_price": 2341.71,
+      "new_price": 2341.71,
+      "current_load_factor": 0.792,
+      "expected_load_factor": 0.788,
+      "expected_revenue_change_pct": -0.45,
+      "risk_flags": []
+    }
+  ],
+  "summary": {
+    "expected_total_revenue_change_pct": -1.2,
+    "high_risk_count": 0,
+    "notes": [
+      "Simulation is synthetic. Use as KPI estimate only."
+    ]
+  }
+}

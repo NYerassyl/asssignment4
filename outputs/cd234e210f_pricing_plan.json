@@ -1,0 +1,49 @@
+{
+  "decisions": [
+    {
+      "route": "ALA-AST",
+      "cabin_class": "economy",
+      "action": "raise",
+      "price_change_pct": 5.0,
+      "target_segment": "leisure",
+      "promo_type": "none",
+      "rationale": "high demand, low load factor",
+      "constraints": [
+        "max +10%"
+      ],
+      "confidence": "high"
+    },
+    {
+      "route": "ALA-DXB",
+      "cabin_class": "business",
+      "action": "lower",
+      "price_change_pct": -3.0,
+      "target_segment": "business",
+      "promo_type": "none",
+      "rationale": "low demand, high load factor",
+      "constraints": [
+        "min -5%"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "route": "ALA-SCO",
+      "cabin_class": "first",
+      "action": "hold",
+      "price_change_pct": 0.0,
+      "target_segment": "leisure",
+      "promo_type": "none",
+      "rationale": "stable demand, moderate load factor",
+      "constraints": [
+        "max +5%"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "global_notes": [
+    "seasonal demand is high"
+  ],
+  "assumptions": [
+    "competitor prices are stable"
+  ]
+}

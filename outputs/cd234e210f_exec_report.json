@@ -1,0 +1,35 @@
+{
+  "executive_summary": [
+    "Pricing strategy recommendations based on analysis and simulation results.",
+    "Expected revenue increase of 3.5% and load factor improvement of 1.2%."
+  ],
+  "pricing_recommendations": [
+    "raise ALA-AST economy by 5%",
+    "hold ALA-DXB business"
+  ],
+  "route_class_priority_ranking": [
+    "1. ALA-DXB business",
+    "2. ALA-AST economy"
+  ],
+  "competitive_advantage_ideas": [
+    "idea 1: Offer competitive pricing on high-demand routes.",
+    "idea 2: Introduce loyalty program to increase customer retention."
+  ],
+  "risk_analysis": [
+    "risk 1: Potential loss of market share due to competitor price drops.",
+    "risk 2: Uncertainty in demand forecasting."
+  ],
+  "next_actions": [
+    "action 1: Implement pricing changes on ALA-AST economy route.",
+    "action 2: Monitor competitor pricing and adjust strategy accordingly."
+  ],
+  "expected_impact": {
+    "expected_total_revenue_change_pct": 3.5,
+    "expected_load_factor_change_pct": 1.2,
+    "high_risk_count": 1
+  },
+  "assumptions": [
+    "assumption 1: Demand index is synthetic.",
+    "assumption 2: Competitor prices are stable."
+  ]
+}
